@@ -41,6 +41,7 @@
     "@types/uuid": "^10.0.0",
     "concurrently": "^9.1.0",
     "cpx": "^1.5.0",
+    "ctx": "^0.3.0",
     "nodemon": "^3.1.7",
     "rimraf": "^6.0.1",
     "ts-node": "^10.9.2",
